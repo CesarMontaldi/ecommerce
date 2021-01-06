@@ -1,24 +1,24 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'acc4d9186a0b4effe184fe1bc353d04b8e5b637a',
     'name' => 'cesarmontaldi/ecommerce',
   ),
   'versions' => 
   array (
     'cesarmontaldi/ecommerce' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'acc4d9186a0b4effe184fe1bc353d04b8e5b637a',
     ),
     'phpmailer/phpmailer' => 
     array (
